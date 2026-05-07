@@ -8,7 +8,7 @@
 			"court": "arena_000_int_floor.iff",
 			"homeUniform": "logo000_secondary.iff",
 			"awayUniform": "logo000_partial.iff",
-			"secondaryUniform": "logo000_bw_secondary.iff"
+			"secondaryUniform": "logo000_bw_partial.iff"
 		},
 		{
 			"id": 2,
@@ -18,7 +18,7 @@
 			"court": "arena_001_int_floor.iff",
 			"homeUniform": "logo001_secondary.iff",
 			"awayUniform": "logo001_partial.iff",
-			"secondaryUniform": "logo001_bw_secondary.iff"
+			"secondaryUniform": "logo001_bw_partial.iff"
 		},
 		{
 			"id": 3,
@@ -28,7 +28,7 @@
 			"court": "arena_002_int_floor.iff",
 			"homeUniform": "logo002_secondary.iff",
 			"awayUniform": "logo002_partial.iff",
-			"secondaryUniform": "logo002_bw_secondary.iff"
+			"secondaryUniform": "logo002_bw_partial.iff"
 		},
 		{
 			"id": 4,
@@ -38,7 +38,7 @@
 			"court": "arena_003_int_floor.iff",
 			"homeUniform": "logo003_secondary.iff",
 			"awayUniform": "logo003_partial.iff",
-			"secondaryUniform": "logo003_bw_secondary.iff"
+			"secondaryUniform": "logo003_bw_partial.iff"
 		},
 		{
 			"id": 5,
@@ -48,7 +48,7 @@
 			"court": "arena_004_int_floor.iff",
 			"homeUniform": "logo004_secondary.iff",
 			"awayUniform": "logo004_partial.iff",
-			"secondaryUniform": "logo004_bw_secondary.iff"
+			"secondaryUniform": "logo004_bw_partial.iff"
 		},
 		{
 			"id": 6,
@@ -58,7 +58,7 @@
 			"court": "arena_005_int_floor.iff",
 			"homeUniform": "logo005_secondary.iff",
 			"awayUniform": "logo005_partial.iff",
-			"secondaryUniform": "logo005_bw_secondary.iff"
+			"secondaryUniform": "logo005_bw_partial.iff"
 		},
 		{
 			"id": 7,
@@ -68,7 +68,7 @@
 			"court": "arena_006_int_floor.iff",
 			"homeUniform": "logo006_secondary.iff",
 			"awayUniform": "logo006_partial.iff",
-			"secondaryUniform": "logo006_bw_secondary.iff"
+			"secondaryUniform": "logo006_bw_partial.iff"
 		},
 		{
 			"id": 8,
@@ -78,7 +78,7 @@
 			"court": "arena_008_int_floor.iff",
 			"homeUniform": "logo007_secondary.iff",
 			"awayUniform": "logo007_partial.iff",
-			"secondaryUniform": "logo007_bw_secondary.iff"
+			"secondaryUniform": "logo007_bw_partial.iff"
 		},
 		{
 			"id": 9,
@@ -88,7 +88,7 @@
 			"court": "arena_009_int_floor.iff",
 			"homeUniform": "logo009_secondary.iff",
 			"awayUniform": "logo009_partial.iff",
-			"secondaryUniform": "logo009_bw_secondary.iff"
+			"secondaryUniform": "logo009_bw_partial.iff"
 		},
 		{
 			"id": 10,
@@ -98,7 +98,7 @@
 			"court": "arena_010_int_floor.iff",
 			"homeUniform": "logo010_secondary.iff",
 			"awayUniform": "logo010_partial.iff",
-			"secondaryUniform": "logo009_bw_secondary.iff"
+			"secondaryUniform": "logo009_bw_partial.iff"
 		},
 		{
 			"id": 11,
@@ -108,7 +108,7 @@
 			"court": "arena_011_int_floor.iff",
 			"homeUniform": "logo011_secondary.iff",
 			"awayUniform": "logo011_partial.iff",
-			"secondaryUniform": "logo011_bw_secondary.iff"
+			"secondaryUniform": "logo011_bw_partial.iff"
 		},
 		{
 			"id": 12,
@@ -118,7 +118,7 @@
 			"court": "arena_012_int_floor.iff",
 			"homeUniform": "logo012_secondary.iff",
 			"awayUniform": "logo012_partial.iff",
-			"secondaryUniform": "logo012_bw_secondary.iff"
+			"secondaryUniform": "logo012_bw_partial.iff"
 		},
 		{
 			"id": 13,
@@ -128,7 +128,7 @@
 			"court": "arena_013_int_floor.iff",
 			"homeUniform": "logo013_secondary.iff",
 			"awayUniform": "logo013_partial.iff",
-			"secondaryUniform": "logo013_bw_secondary.iff"
+			"secondaryUniform": "logo013_bw_partial.iff"
 		},
 		{
 			"id": 14,
@@ -138,7 +138,7 @@
 			"court": "arena_014_int_floor.iff",
 			"homeUniform": "logo014_secondary.iff",
 			"awayUniform": "logo014_partial.iff",
-			"secondaryUniform": "logo014_bw_secondary.iff"
+			"secondaryUniform": "logo014_bw_partial.iff"
 		},
 		{
 			"id": 15,
@@ -148,7 +148,7 @@
 			"court": "arena_015_int_floor.iff",
 			"homeUniform": "logo015_secondary.iff",
 			"awayUniform": "logo015_partial.iff",
-			"secondaryUniform": "logo015_bw_secondary.iff"
+			"secondaryUniform": "logo015_bw_partial.iff"
 		},
 		{
 			"id": 16,
@@ -158,7 +158,7 @@
 			"court": "arena_016_int_floor.iff",
 			"homeUniform": "logo016_secondary.iff",
 			"awayUniform": "logo016_partial.iff",
-			"secondaryUniform": "logo016_bw_secondary.iff"
+			"secondaryUniform": "logo016_bw_partial.iff"
 		},
 		{
 			"id": 17,
@@ -168,7 +168,7 @@
 			"court": "arena_017_int_floor.iff",
 			"homeUniform": "logo017_secondary.iff",
 			"awayUniform": "logo017_partial.iff",
-			"secondaryUniform": "logo017_bw_secondary.iff"
+			"secondaryUniform": "logo017_bw_partial.iff"
 		},
 		{
 			"id": 18,
@@ -178,7 +178,7 @@
 			"court": "arena_018_int_floor.iff",
 			"homeUniform": "logo018_secondary.iff",
 			"awayUniform": "logo018_partial.iff",
-			"secondaryUniform": "logo018_bw_secondary.iff"
+			"secondaryUniform": "logo018_bw_partial.iff"
 		},
 		{
 			"id": 19,
@@ -188,7 +188,7 @@
 			"court": "arena_019_int_floor.iff",
 			"homeUniform": "logo019_secondary.iff",
 			"awayUniform": "logo019_partial.iff",
-			"secondaryUniform": "logo019_bw_secondary.iff"
+			"secondaryUniform": "logo019_bw_partial.iff"
 		},
 		{
 			"id": 20,
@@ -198,7 +198,7 @@
 			"court": "arena_020_int_floor.iff",
 			"homeUniform": "logo020_secondary.iff",
 			"awayUniform": "logo020_partial.iff",
-			"secondaryUniform": "logo020_bw_secondary.iff"
+			"secondaryUniform": "logo020_bw_partial.iff"
 		},
 		{
 			"id": 21,
@@ -208,7 +208,7 @@
 			"court": "arena_021_int_floor.iff",
 			"homeUniform": "logo021_secondary.iff",
 			"awayUniform": "logo021_partial.iff",
-			"secondaryUniform": "logo021_bw_secondary.iff"
+			"secondaryUniform": "logo021_bw_partial.iff"
 		},
 		{
 			"id": 22,
@@ -218,7 +218,7 @@
 			"court": "arena_022_int_floor.iff",
 			"homeUniform": "logo022_secondary.iff",
 			"awayUniform": "logo022_partial.iff",
-			"secondaryUniform": "logo022_bw_secondary.iff"
+			"secondaryUniform": "logo022_bw_partial.iff"
 		},
 		{
 			"id": 23,
@@ -228,7 +228,7 @@
 			"court": "arena_023_int_floor.iff",
 			"homeUniform": "logo023_secondary.iff",
 			"awayUniform": "logo023_partial.iff",
-			"secondaryUniform": "logo023_bw_secondary.iff"
+			"secondaryUniform": "logo023_bw_partial.iff"
 		},
 		{
 			"id": 24,
@@ -238,7 +238,7 @@
 			"court": "arena_024_int_floor.iff",
 			"homeUniform": "logo024_secondary.iff",
 			"awayUniform": "logo024_partial.iff",
-			"secondaryUniform": "logo024_bw_secondary.iff"
+			"secondaryUniform": "logo024_bw_partial.iff"
 		},
 		{
 			"id": 25,
@@ -248,7 +248,7 @@
 			"court": "arena_025_int_floor.iff",
 			"homeUniform": "logo025_secondary.iff",
 			"awayUniform": "logo025_partial.iff",
-			"secondaryUniform": "logo025_bw_secondary.iff"
+			"secondaryUniform": "logo025_bw_partial.iff"
 		},
 		{
 			"id": 26,
@@ -258,7 +258,7 @@
 			"court": "arena_026_int_floor.iff",
 			"homeUniform": "logo026_secondary.iff",
 			"awayUniform": "logo026_partial.iff",
-			"secondaryUniform": "logo026_bw_secondary.iff"
+			"secondaryUniform": "logo026_bw_partial.iff"
 		},
 		{
 			"id": 27,
@@ -268,7 +268,7 @@
 			"court": "arena_027_int_floor.iff",
 			"homeUniform": "logo027_secondary.iff",
 			"awayUniform": "logo027_partial.iff",
-			"secondaryUniform": "logo027_bw_secondary.iff"
+			"secondaryUniform": "logo027_bw_partial.iff"
 		},
 		{
 			"id": 28,
@@ -278,7 +278,7 @@
 			"court": "arena_028_int_floor.iff",
 			"homeUniform": "logo028_secondary.iff",
 			"awayUniform": "logo028_partial.iff",
-			"secondaryUniform": "logo028_bw_secondary.iff"
+			"secondaryUniform": "logo028_bw_partial.iff"
 		},
 		{
 			"id": 29,
@@ -288,7 +288,7 @@
 			"court": "arena_029_int_floor.iff",
 			"homeUniform": "logo029_secondary.iff",
 			"awayUniform": "logo029_partial.iff",
-			"secondaryUniform": "logo029_bw_secondary.iff"
+			"secondaryUniform": "logo029_bw_partial.iff"
 		},
 		{
 			"id": 30,
@@ -298,7 +298,7 @@
 			"court": "arena_031_int_floor.iff",
 			"homeUniform": "logo031_secondary.iff",
 			"awayUniform": "logo031_partial.iff",
-			"secondaryUniform": "logo031_bw_secondary.iff"
+			"secondaryUniform": "logo031_bw_partial.iff"
 		},
 		{
 			"id": 31,
