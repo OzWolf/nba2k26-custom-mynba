@@ -1,0 +1,364 @@
+﻿{
+	"teamTemplates": [
+		{
+			"id": 1,
+			"expansion": false,
+			"name": "Philadelphia 76ers",
+			"logo": "logo000.iff",
+			"court": "arena_000_int_floor.iff",
+			"homeUniform": "logo000_secondary.iff",
+			"awayUniform": "logo000_partial.iff",
+			"secondaryUniform": "logo000_bw_secondary.iff"
+		},
+		{
+			"id": 2,
+			"expansion": false,
+			"name": "Milwaukee Bucks",
+			"logo": "logo001.iff",
+			"court": "arena_001_int_floor.iff",
+			"homeUniform": "logo001_secondary.iff",
+			"awayUniform": "logo001_partial.iff",
+			"secondaryUniform": "logo001_bw_secondary.iff"
+		},
+		{
+			"id": 3,
+			"expansion": false,
+			"name": "Washington Wizards",
+			"logo": "logo002.iff",
+			"court": "arena_002_int_floor.iff",
+			"homeUniform": "logo002_secondary.iff",
+			"awayUniform": "logo002_partial.iff",
+			"secondaryUniform": "logo002_bw_secondary.iff"
+		},
+		{
+			"id": 4,
+			"expansion": false,
+			"name": "Chicago Bulls",
+			"logo": "logo003.iff",
+			"court": "arena_003_int_floor.iff",
+			"homeUniform": "logo003_secondary.iff",
+			"awayUniform": "logo003_partial.iff",
+			"secondaryUniform": "logo003_bw_secondary.iff"
+		},
+		{
+			"id": 5,
+			"expansion": false,
+			"name": "Cleveland Cavaliers",
+			"logo": "logo004.iff",
+			"court": "arena_004_int_floor.iff",
+			"homeUniform": "logo004_secondary.iff",
+			"awayUniform": "logo004_partial.iff",
+			"secondaryUniform": "logo004_bw_secondary.iff"
+		},
+		{
+			"id": 6,
+			"expansion": false,
+			"name": "Boston Celtics",
+			"logo": "logo005.iff",
+			"court": "arena_005_int_floor.iff",
+			"homeUniform": "logo005_secondary.iff",
+			"awayUniform": "logo005_partial.iff",
+			"secondaryUniform": "logo005_bw_secondary.iff"
+		},
+		{
+			"id": 7,
+			"expansion": false,
+			"name": "Los Angeles Clippers",
+			"logo": "logo006.iff",
+			"court": "arena_006_int_floor.iff",
+			"homeUniform": "logo006_secondary.iff",
+			"awayUniform": "logo006_partial.iff",
+			"secondaryUniform": "logo006_bw_secondary.iff"
+		},
+		{
+			"id": 8,
+			"expansion": false,
+			"name": "Memphis Grizzlies",
+			"logo": "logo008.iff",
+			"court": "arena_008_int_floor.iff",
+			"homeUniform": "logo007_secondary.iff",
+			"awayUniform": "logo007_partial.iff",
+			"secondaryUniform": "logo007_bw_secondary.iff"
+		},
+		{
+			"id": 9,
+			"expansion": false,
+			"name": "Atlanta Hawks",
+			"logo": "logo009.iff",
+			"court": "arena_009_int_floor.iff",
+			"homeUniform": "logo009_secondary.iff",
+			"awayUniform": "logo009_partial.iff",
+			"secondaryUniform": "logo009_bw_secondary.iff"
+		},
+		{
+			"id": 10,
+			"expansion": false,
+			"name": "Miami Heat",
+			"logo": "logo010.iff",
+			"court": "arena_010_int_floor.iff",
+			"homeUniform": "logo010_secondary.iff",
+			"awayUniform": "logo010_partial.iff",
+			"secondaryUniform": "logo009_bw_secondary.iff"
+		},
+		{
+			"id": 11,
+			"expansion": false,
+			"name": "New Orleans Pelicans",
+			"logo": "logo011.iff",
+			"court": "arena_011_int_floor.iff",
+			"homeUniform": "logo011_secondary.iff",
+			"awayUniform": "logo011_partial.iff",
+			"secondaryUniform": "logo011_bw_secondary.iff"
+		},
+		{
+			"id": 12,
+			"expansion": false,
+			"name": "Utah Jazz",
+			"logo": "logo012.iff",
+			"court": "arena_012_int_floor.iff",
+			"homeUniform": "logo012_secondary.iff",
+			"awayUniform": "logo012_partial.iff",
+			"secondaryUniform": "logo012_bw_secondary.iff"
+		},
+		{
+			"id": 13,
+			"expansion": false,
+			"name": "Sacramento Kings",
+			"logo": "logo013.iff",
+			"court": "arena_013_int_floor.iff",
+			"homeUniform": "logo013_secondary.iff",
+			"awayUniform": "logo013_partial.iff",
+			"secondaryUniform": "logo013_bw_secondary.iff"
+		},
+		{
+			"id": 14,
+			"expansion": false,
+			"name": "New York Knicks",
+			"logo": "logo014.iff",
+			"court": "arena_014_int_floor.iff",
+			"homeUniform": "logo014_secondary.iff",
+			"awayUniform": "logo014_partial.iff",
+			"secondaryUniform": "logo014_bw_secondary.iff"
+		},
+		{
+			"id": 15,
+			"expansion": false,
+			"name": "Los Angeles Lakers",
+			"logo": "logo015.iff",
+			"court": "arena_015_int_floor.iff",
+			"homeUniform": "logo015_secondary.iff",
+			"awayUniform": "logo015_partial.iff",
+			"secondaryUniform": "logo015_bw_secondary.iff"
+		},
+		{
+			"id": 16,
+			"expansion": false,
+			"name": "Orlando Magic",
+			"logo": "logo016.iff",
+			"court": "arena_016_int_floor.iff",
+			"homeUniform": "logo016_secondary.iff",
+			"awayUniform": "logo016_partial.iff",
+			"secondaryUniform": "logo016_bw_secondary.iff"
+		},
+		{
+			"id": 17,
+			"expansion": false,
+			"name": "Dallas Mavericks",
+			"logo": "logo017.iff",
+			"court": "arena_017_int_floor.iff",
+			"homeUniform": "logo017_secondary.iff",
+			"awayUniform": "logo017_partial.iff",
+			"secondaryUniform": "logo017_bw_secondary.iff"
+		},
+		{
+			"id": 18,
+			"expansion": false,
+			"name": "Brooklyn Nets",
+			"logo": "logo018.iff",
+			"court": "arena_018_int_floor.iff",
+			"homeUniform": "logo018_secondary.iff",
+			"awayUniform": "logo018_partial.iff",
+			"secondaryUniform": "logo018_bw_secondary.iff"
+		},
+		{
+			"id": 19,
+			"expansion": false,
+			"name": "Denver Nuggets",
+			"logo": "logo019.iff",
+			"court": "arena_019_int_floor.iff",
+			"homeUniform": "logo019_secondary.iff",
+			"awayUniform": "logo019_partial.iff",
+			"secondaryUniform": "logo019_bw_secondary.iff"
+		},
+		{
+			"id": 20,
+			"expansion": false,
+			"name": "Indiana Pacers",
+			"logo": "logo020.iff",
+			"court": "arena_020_int_floor.iff",
+			"homeUniform": "logo020_secondary.iff",
+			"awayUniform": "logo020_partial.iff",
+			"secondaryUniform": "logo020_bw_secondary.iff"
+		},
+		{
+			"id": 21,
+			"expansion": false,
+			"name": "Detroit Pistons",
+			"logo": "logo021.iff",
+			"court": "arena_021_int_floor.iff",
+			"homeUniform": "logo021_secondary.iff",
+			"awayUniform": "logo021_partial.iff",
+			"secondaryUniform": "logo021_bw_secondary.iff"
+		},
+		{
+			"id": 22,
+			"expansion": false,
+			"name": "Toronto Rapters",
+			"logo": "logo022.iff",
+			"court": "arena_022_int_floor.iff",
+			"homeUniform": "logo022_secondary.iff",
+			"awayUniform": "logo022_partial.iff",
+			"secondaryUniform": "logo022_bw_secondary.iff"
+		},
+		{
+			"id": 23,
+			"expansion": false,
+			"name": "Houston Rockets",
+			"logo": "logo023.iff",
+			"court": "arena_023_int_floor.iff",
+			"homeUniform": "logo023_secondary.iff",
+			"awayUniform": "logo023_partial.iff",
+			"secondaryUniform": "logo023_bw_secondary.iff"
+		},
+		{
+			"id": 24,
+			"expansion": false,
+			"name": "Oklahoma City Thunder",
+			"logo": "logo024.iff",
+			"court": "arena_024_int_floor.iff",
+			"homeUniform": "logo024_secondary.iff",
+			"awayUniform": "logo024_partial.iff",
+			"secondaryUniform": "logo024_bw_secondary.iff"
+		},
+		{
+			"id": 25,
+			"expansion": false,
+			"name": "San Antonio Spurs",
+			"logo": "logo025.iff",
+			"court": "arena_025_int_floor.iff",
+			"homeUniform": "logo025_secondary.iff",
+			"awayUniform": "logo025_partial.iff",
+			"secondaryUniform": "logo025_bw_secondary.iff"
+		},
+		{
+			"id": 26,
+			"expansion": false,
+			"name": "Phoenix Suns",
+			"logo": "logo026.iff",
+			"court": "arena_026_int_floor.iff",
+			"homeUniform": "logo026_secondary.iff",
+			"awayUniform": "logo026_partial.iff",
+			"secondaryUniform": "logo026_bw_secondary.iff"
+		},
+		{
+			"id": 27,
+			"expansion": false,
+			"name": "Minnesota Timberwolves",
+			"logo": "logo027.iff",
+			"court": "arena_027_int_floor.iff",
+			"homeUniform": "logo027_secondary.iff",
+			"awayUniform": "logo027_partial.iff",
+			"secondaryUniform": "logo027_bw_secondary.iff"
+		},
+		{
+			"id": 28,
+			"expansion": false,
+			"name": "Portland Trailblazers",
+			"logo": "logo028.iff",
+			"court": "arena_028_int_floor.iff",
+			"homeUniform": "logo028_secondary.iff",
+			"awayUniform": "logo028_partial.iff",
+			"secondaryUniform": "logo028_bw_secondary.iff"
+		},
+		{
+			"id": 29,
+			"expansion": false,
+			"name": "Golden State Warriors",
+			"logo": "logo029.iff",
+			"court": "arena_029_int_floor.iff",
+			"homeUniform": "logo029_secondary.iff",
+			"awayUniform": "logo029_partial.iff",
+			"secondaryUniform": "logo029_bw_secondary.iff"
+		},
+		{
+			"id": 30,
+			"expansion": false,
+			"name": "Charlotte Hornets",
+			"logo": "logo031.iff",
+			"court": "arena_031_int_floor.iff",
+			"homeUniform": "logo031_secondary.iff",
+			"awayUniform": "logo031_partial.iff",
+			"secondaryUniform": "logo031_bw_secondary.iff"
+		},
+		{
+			"id": 31,
+			"expansion": true,
+			"name": "Nashville Stars",
+			"logo": "logo852.iff",
+			"court": "arena_852_int_floor.iff",
+			"homeUniform": "logo800.iff",
+			"awayUniform": "logo300.iff",
+			"secondaryUniform": "logo306.iff"
+		},
+		{
+			"id": 32,
+			"expansion": true,
+			"name": "Pittsburgh Force",
+			"logo": "logo853.iff",
+			"court": "arena_853_int_floor.iff",
+			"homeUniform": "logo801.iff",
+			"awayUniform": "logo301.iff",
+			"secondaryUniform": "logo307.iff"
+		},
+		{
+			"id": 33,
+			"expansion": true,
+			"name": "Kansas City Knights",
+			"logo": "logo854.iff",
+			"court": "arena_854_int_floor.iff",
+			"homeUniform": "logo802.iff",
+			"awayUniform": "logo302.iff",
+			"secondaryUniform": "logo308.iff"
+		},
+		{
+			"id": 34,
+			"expansion": true,
+			"name": "Virginia Storm",
+			"logo": "logo855.iff",
+			"court": "arena_855_int_floor.iff",
+			"homeUniform": "logo803.iff",
+			"awayUniform": "logo303.iff",
+			"secondaryUniform": "logo309.iff"
+		},
+		{
+			"id": 35,
+			"expansion": true,
+			"name": "Vancouver Ravens",
+			"logo": "logo856.iff",
+			"court": "arena_856_int_floor.iff",
+			"homeUniform": "logo804.iff",
+			"awayUniform": "logo304.iff",
+			"secondaryUniform": "logo310.iff"
+		},
+		{
+			"id": 36,
+			"expansion": true,
+			"name": "San Diego Surf",
+			"logo": "logo857.iff",
+			"court": "arena_857_int_floor.iff",
+			"homeUniform": "logo805.iff",
+			"awayUniform": "logo305.iff",
+			"secondaryUniform": "logo311.iff"
+		}
+	]
+}

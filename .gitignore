@@ -427,3 +427,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+NBA2K26CustomMyNBA.CLI/Assets/arena_floor.iff
+NBA2K26CustomMyNBA.CLI/Assets/logo.iff
+NBA2K26CustomMyNBA.CLI/Assets/templates.7z
