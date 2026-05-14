@@ -62,7 +62,7 @@ public static class Program
             Justification = Justify.Center
         };
 
-        var version = new Text("Version 1.0.0", new Style(Color.Grey))
+        var version = new Text("Version 1.1.0", new Style(Color.Grey))
         {
             Justification = Justify.Center
         };

@@ -97,6 +97,12 @@ To customise a team, you will need to use the Relocation feature for each one an
 5. Edit the team stadium _only_!
    1. If you edit the stadium floor, it will overwrite your custom floor with whatever the relocation tool provides.  Editing the stadium ensures you have the arena you want and clears out the replaced teams remnants in-game.
 
+### Uniform Best Results
+
+After testing, the uniform best results are produced by removing the background and leaving your logos and patterns in place and saving the PNG with a transparent background.
+
+Then in the game, set your uniform base colour the way you normally would, along with the neck, shoulder, and belt stripes, then overlay the uniform logo.  This ensures minimal visible seams in the process.
+
 ### Expansion Teams
 
 If you are wanting to play a 36 team league, there are six expansion teams that can be replaced:

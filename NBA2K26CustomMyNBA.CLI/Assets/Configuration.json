@@ -36,7 +36,7 @@
 			"name": "Chicago Bulls",
 			"logo": "logo003.iff",
 			"court": "arena_003_int_floor.iff",
-			"homeUniform": "logo003_secondary.iff",
+			"homeUniform": "logo001_secondary_2.iff",
 			"awayUniform": "logo003_partial.iff",
 			"secondaryUniform": "logo003_bw_partial.iff"
 		},
@@ -76,9 +76,9 @@
 			"name": "Memphis Grizzlies",
 			"logo": "logo008.iff",
 			"court": "arena_008_int_floor.iff",
-			"homeUniform": "logo007_secondary.iff",
-			"awayUniform": "logo007_partial.iff",
-			"secondaryUniform": "logo007_bw_partial.iff"
+			"homeUniform": "logo008_secondary.iff",
+			"awayUniform": "logo008_partial.iff",
+			"secondaryUniform": "logo008_bw_partial.iff"
 		},
 		{
 			"id": 9,
@@ -87,8 +87,8 @@
 			"logo": "logo009.iff",
 			"court": "arena_009_int_floor.iff",
 			"homeUniform": "logo009_secondary.iff",
-			"awayUniform": "logo009_partial.iff",
-			"secondaryUniform": "logo009_bw_partial.iff"
+			"awayUniform": "logo000_partial_2.iff",
+			"secondaryUniform": "logo000_bw_partial_2.iff"
 		},
 		{
 			"id": 10,
@@ -148,7 +148,7 @@
 			"court": "arena_015_int_floor.iff",
 			"homeUniform": "logo015_secondary.iff",
 			"awayUniform": "logo015_partial.iff",
-			"secondaryUniform": "logo015_bw_partial.iff"
+			"secondaryUniform": "logo006_bw_partial_2.iff"
 		},
 		{
 			"id": 16,
@@ -157,8 +157,8 @@
 			"logo": "logo016.iff",
 			"court": "arena_016_int_floor.iff",
 			"homeUniform": "logo016_secondary.iff",
-			"awayUniform": "logo016_partial.iff",
-			"secondaryUniform": "logo016_bw_partial.iff"
+			"awayUniform": "logo005_partial_2.iff",
+			"secondaryUniform": "logo005_bw_partial_3.iff"
 		},
 		{
 			"id": 17,
@@ -178,7 +178,7 @@
 			"court": "arena_018_int_floor.iff",
 			"homeUniform": "logo018_secondary.iff",
 			"awayUniform": "logo018_partial.iff",
-			"secondaryUniform": "logo018_bw_partial.iff"
+			"secondaryUniform": "logo008_bw_partial_2.iff"
 		},
 		{
 			"id": 19,
@@ -213,10 +213,10 @@
 		{
 			"id": 22,
 			"expansion": false,
-			"name": "Toronto Rapters",
+			"name": "Toronto Raptors",
 			"logo": "logo022.iff",
 			"court": "arena_022_int_floor.iff",
-			"homeUniform": "logo022_secondary.iff",
+			"homeUniform": "logo008_secondary_2.iff",
 			"awayUniform": "logo022_partial.iff",
 			"secondaryUniform": "logo022_bw_partial.iff"
 		},
@@ -276,7 +276,7 @@
 			"name": "Portland Trailblazers",
 			"logo": "logo028.iff",
 			"court": "arena_028_int_floor.iff",
-			"homeUniform": "logo028_secondary.iff",
+			"homeUniform": "logo026_secondary_2.iff",
 			"awayUniform": "logo028_partial.iff",
 			"secondaryUniform": "logo028_bw_partial.iff"
 		},
