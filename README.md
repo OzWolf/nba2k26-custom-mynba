@@ -120,15 +120,9 @@ When you expand the league with one of these teams, you will get your custom log
 
 Uniform images can be found under the logos in different areas.
 
-For the 30 NBA teams, you can find your uniforms under:
-+ Home Uniform - NBA Secondary
-+ Away Uniform - NBA Partial
-+ Secondary Uniform - NBA Partial B&W
+The team uniforms can be found under: NBA Secondary, NBA Partial and NBA B&W Secondary.
 
-For the 6 expansion teams, your uniforms can be found in:
-+ Home Uniform - Presets
-+ Away Uniform - WNBA Primary
-+ Secondary Uniform - WNBA Primary
+For the most part we have tried to keep a team's uniforms grouped together.
 
 ## FAQ
 
