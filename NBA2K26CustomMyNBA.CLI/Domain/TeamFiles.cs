@@ -23,11 +23,11 @@ internal class TeamFiles(string logo, string court, string homeUniform, string a
         $"{AppDirectories.Work}/{team.Name}_secondary_uniform.dds"
     );
 
-    public static TeamFiles TargetArchiveFiles(TeamTemplate template) => new(
+    public static TeamFiles TargetArchiveFiles(TeamTemplate template, UniformSlots uniformSlots) => new(
         $"{AppDirectories.ModsLogos}/{template.Logo}",
         $"{AppDirectories.ModsLevels}/{template.Court}",
-        $"{AppDirectories.ModsLogos}/{template.HomeUniform}",
-        $"{AppDirectories.ModsLogos}/{template.AwayUniform}",
-        $"{AppDirectories.ModsLogos}/{template.SecondaryUniform}"
+        $"{AppDirectories.ModsLogos}/{uniformSlots.HomeUniform}",
+        $"{AppDirectories.ModsLogos}/{uniformSlots.AwayUniform}",
+        $"{AppDirectories.ModsLogos}/{uniformSlots.SecondaryUniform}"
     );
 }

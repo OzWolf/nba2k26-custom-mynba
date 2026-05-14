@@ -5,18 +5,16 @@ namespace NBA2K26CustomMyNBA.CLI.Domain;
 [method: JsonConstructor]
 internal class League(string id, string name, List<Team> teams)
 {
-    private readonly string _id = id;
-    private readonly string _name = name;
     [JsonProperty("teams")]
     private readonly List<Team> _teams = teams;
 
     internal League(string name) : this(Guid.NewGuid().ToString(), name, []) { }
 
     [JsonProperty("id")]
-    public string Id => _id;
+    public string Id => id;
 
     [JsonProperty("name")]
-    public string Name => _name;
+    public string Name => name;
 
     [JsonIgnore]
     public List<TeamWithTemplate> Teams
@@ -26,7 +24,7 @@ internal class League(string id, string name, List<Team> teams)
             return [.. _teams.Select(t =>
             {
                 var template = templates.First(tmp => tmp.Id == t.TemplateId);
-                return new TeamWithTemplate(t, template);
+                return new TeamWithTemplate(t, template, AppConfiguration.UniformSlotsFor(t.TemplateId));
             })];
         }
     }
